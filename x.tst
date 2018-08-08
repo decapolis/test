@@ -10,5 +10,11 @@ This is line 5
 
 This is line 6
 
+	This is line 6.1
+
+	This is line 6.2
+
+	This is line 6.3
+
 This is line 7
 
