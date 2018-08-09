@@ -1,3 +1,7 @@
+This is the new line 0
+
+	This is line 0.1
+
 This is line 1
 
 This is line 2
